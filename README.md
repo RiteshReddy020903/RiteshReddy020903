@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm RITESH REDDY</h1>
 <h3 align="center">I AM A COMPUTER CRAFTSMAN</h3>
 
-<img align='right' alt=coding  width='400' src="https://i.gifer.com/embedded/download/5eKX.gif">
+<img align='right' alt=coding  width='400' src="https://user-images.githubusercontent.com/89268342/215021027-030c2f00-5c81-4954-a2f5-e346f4f8663f.png">
 
 - 📫 How to reach me **riteshreddy020903@gmail.com**
 
