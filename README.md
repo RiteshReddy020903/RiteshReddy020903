@@ -1,4 +1,4 @@
-![logo] (https://github.com/RiteshReddy020903/RiteshReddy020903/blob/main/banner.png)
+![logo](https://github.com/RiteshReddy020903/RiteshReddy020903/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm RITESH REDDY</h1>
 <h3 align="center">I AM A COMPUTER CRAFTSMAN</h3>
 
