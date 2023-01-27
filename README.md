@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm RITESH REDDY</h1>
 <h3 align="center">I AM A COMPUTER CRAFTSMAN</h3>
 
-<img align='right' alt=coding  width='400' src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw0jQeDZq7q60-Dip-7Aa6uV&ust=1674885798530000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCNDC6viJ5_wCFQAAAAAdAAAAABAm">
+<img align='right' alt=coding  width='400' src="![image](https://user-images.githubusercontent.com/89268342/215020629-47156728-b609-4595-8978-e576adb042ac.png)
+">
 
 - 📫 How to reach me **riteshreddy020903@gmail.com**
 
